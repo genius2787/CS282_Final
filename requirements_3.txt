@@ -1,0 +1,4 @@
+protobuf==3.20
+keras==2.2.5
+opencv-python
+neorl

@@ -1,0 +1,20 @@
+tensorflow == 1.14
+torch==1.11.0
+loguru==0.6.0
+datetime==4.4
+imageio==2.19.3
+keras==2.2.5
+seaborn == 0.9.0
+pandas==1.1.5
+matplotlib==3.4.3
+imageio==2.19.3
+aim==2.0.27
+fire==0.4.0
+gym==0.16.0
+sklearn==0.0
+gtimer==1.0.0b5
+numpy == 1.18
+neorl==1.7
+opencv-python==4.5.5.64
+ray == 1.11
+protobuf == 3.20
